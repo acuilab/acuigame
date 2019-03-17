@@ -13,6 +13,10 @@ import com.moribitotech.mtx.screen.AbstractScreen;
 import com.moribitotech.samples.core.testassets.Assets;
 import com.moribitotech.samples.core.testmodels.MenuSideBoxOverLayer;
 
+/**
+ * ”Œœ∑≤Àµ•
+ * @author admin
+ */
 public class Test8_GameMenu extends AbstractScreen {
 	private Label lblFps;
 	private Label lblScreenTime;
